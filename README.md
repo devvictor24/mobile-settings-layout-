@@ -32,6 +32,7 @@ Grupo de RadioButtons para seleção única do método de pagamento (PayPal, Cre
 7. SettingsAlertDialog
 Diálogo de confirmação para ação de Sign Out.
 
+
 💡 Conceitos Aplicados
 ✅ UI Declarativa com Jetpack Compose
 ✅ Scaffold para estruturação da tela principal
@@ -42,6 +43,7 @@ Diálogo de confirmação para ação de Sign Out.
 ✅ strings.xml para internacionalização e manutenção
 ✅ TextStyle personalizado para consistência visual
 ✅ Funções @Composable separadas para reutilização e organização
+
 
 
 📸 Screenshots
